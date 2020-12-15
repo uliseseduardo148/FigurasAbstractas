@@ -1,0 +1,7 @@
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\obj\Debug\FigurasAbstractas.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\obj\Debug\FigurasAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\bin\Debug\FigurasAbstractas.exe.config
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\bin\Debug\FigurasAbstractas.exe
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\bin\Debug\FigurasAbstractas.pdb
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\obj\Debug\FigurasAbstractas.exe
+C:\Users\cliente-preferido\source\repos\FigurasAbstractas\obj\Debug\FigurasAbstractas.pdb
